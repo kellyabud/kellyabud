@@ -1,4 +1,4 @@
-👋 Olá! Eu sou a  Kelly Abud
+👋 Olá! Eu sou a  Kelly Oliveira
 
 🌱 Estudando Teste de software
 
