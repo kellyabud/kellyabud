@@ -1,6 +1,6 @@
 👋 Olá! Eu sou a  Kelly Abud
 
-🌱 Estudando Teste de software
+🌱 Estudando Testes de software
 
 ![Abud GitHub stats](https://github-readme-stats.vercel.app/api?username=Kellyabud&show_icons=true&theme=dracula&count_private=true)
  
