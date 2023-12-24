@@ -29,11 +29,15 @@
  <img align="center" alt="Kellyabud-nodeJS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg">
  <img align="center" alt="Kellyabud-git" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg">
   
-  </div><br/>
-"O que não te desafia, não te transforma". (Fred Devito)
 
+
+  </div><br/>
+"O que não te desafia, não te transforma". (Fred Devito)<br>
+![Snake animation](https://github.com/Kellyabud/Kellyabud/blob/output/github-contribution-grid-snake.svg)
 
 ## Contato
 - kelly.abud@gmail.com<br/>
 - [Linkedin](https://www.linkedin.com/in/kelly-abud/)
-![Snake animation](https://github.com/Kellyabud/Kellyabud/blob/output/github-contribution-grid-snake.svg)
+  
+
+
