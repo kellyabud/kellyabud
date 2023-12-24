@@ -30,7 +30,7 @@
 
   </div><br/>
 "O que não te desafia, não te transforma". (Fred Devito)<br>
-![Snake animation](https://github.com/Kellyabud/Kellyabud/blob/output/github-contribution-grid-snake.svg)
+
 
 ## Contato
 - kelly.abud@gmail.com<br/>
